@@ -1,0 +1,9 @@
+Hayalleri Çalmayı Bırakın
+====================
+
+"eğer beni küçümsemezsen, ben de seni küçümsemem" - Bob Dylan
+
+Sistemi değiştirecek kadar önemseyen, özen gösteren her öğretmene, ve ayağa kalkıp konuşacak kadar cesur olan her öğrenciye adanmıştır.
+
+Özellikle Ross Abrams, Jon Guillaume, Beth Rudd, Steve Greenberg, Benji Kanters, Patti Jo Wilson, Florian Kønig, ve sizin için herşeyi değiştiren o öğretmeninize.
+
