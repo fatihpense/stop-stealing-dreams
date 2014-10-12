@@ -1,24 +1,26 @@
 5\. Sütun A ve Sütun B
 ------
 
-Farkında
-Duyarlı
-Adanmış
-Yaratıcı
-Hedef-koyucu
-Dürüst
-Doğaçlama yapabilen
-İsabetli
-Bağımsız
-Bilgili
-İnsiyatif alan
-Yenilikçi
-İçgörü sahibi
-Önderlik eden
-Stratejik
-Destekleyici
-                 veya
-                               Kurallara uyan
+* Farkında
+* Duyarlı
+* Adanmış
+* Yaratıcı
+* Hedef-koyucu
+* Dürüst
+* Doğaçlama yapabilen
+* İsabetli
+* Bağımsız
+* Bilgili
+* İnsiyatif alan
+* Yenilikçi
+* İçgörü sahibi
+* Önderlik eden
+* Stratejik
+* Destekleyici
+
+veya
+
+* Kurallara uyan
 
 Hangi sütunu seçerdiniz? Hangisine çalışmak veya hangisiyle yanyana çalışmak isterdiniz? Hangisini işe almak isterdiniz? Hangi doktor sizi muayene etsin isterdiniz? Kimle birlikte yaşamak isterdiniz.
 
